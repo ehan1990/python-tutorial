@@ -17,3 +17,17 @@ if __name__ == "__main__":
     # if it doesn't satisfy the previous two conditions (i.e. water temperature is smaller or equal to 0)
     else:
         print "water is turning into ice"
+
+    wears_glasses = True
+    if wears_glasses == True:
+        print "I wear glasses"
+    else:
+        print "I don't wear glasses"
+
+    name = "Edward"
+    if name == "Edward":
+        print "I am the older brother"
+    elif name == "Richard":
+        print "I am the younger brother"
+    else:
+        print "I don't know who I am!"
