@@ -4,12 +4,12 @@
 
 ### Popular destinations
 * [Golden Gate Bridge](#golden-gate-bridge)
-* Golden Gate Park
-* Cabel Car
-* Aquariam of the bay
-* Union Square
-* Rocket boat
-* Sightseeing around the city
+* [Golden Gate Park](#golden-gate-par)
+* [Cabel Car](#cable-car)
+* [Aquariam of the bay](#aquariam-of-the-bay)
+* [Union Square](#union-square)
+* [Rocket boat](#rocket-boat)
+* [Sightseeing around the city](#sightseeing-around-the-city)
 
 ### Golden Gate Bridge
 - Stroll across the bridge and stare at the water and boats.
@@ -26,7 +26,7 @@
 
 ![cable_car](trolley_car.png)
 
-### Aquariam of the bar
+### Aquariam of the bay
 - It's like you're living in the ocean!
 
 ![aquariam](aquarium.png)
