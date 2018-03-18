@@ -3,7 +3,7 @@
 ![tourist_map](tourist_map.png)
 
 ### Popular destinations
-* Golden Gate Bridge
+* [Golden Gate Bridge](#golden-gate-bridge)
 * Golden Gate Park
 * Cabel Car
 * Aquariam of the bay
@@ -46,4 +46,7 @@
 - I remember you saying sightseeing's boring. But there are ways to make it fun by driving a mini-car or go on a segway city tour.
 ![gocar](gocar.png)
 ![segway_tour](segway_tour.png)
+
 ### Places to avoid 
+- Not recommended to wander around here, especially at night.
+![places_to_avoid](places_to_avoid.png)
